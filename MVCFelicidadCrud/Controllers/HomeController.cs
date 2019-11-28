@@ -10,7 +10,7 @@ namespace MVCFelicidadCrud.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Pagina de Felicidad";
 
             return View();
         }
